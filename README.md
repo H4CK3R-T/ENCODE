@@ -22,7 +22,7 @@ $ git clone https://github.com/H4CK3R-T/ENCODE```
 #### Run script
 ```bash
 $ cd ENCODE
-$ python .py
+$ python encode_enc.py
 ```
 #### MY SOCIAL MEDIA
 
